@@ -1,0 +1,1 @@
+[{"id":"7fe381ec.38ee","type":"rpi-gpio out","z":"6e3d9804.4865b8","name":"LEB","pin":"11","set":"","level":"0","freq":"","out":"out","x":920,"y":440,"wires":[]}]
